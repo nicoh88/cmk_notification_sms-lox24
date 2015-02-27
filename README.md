@@ -3,7 +3,7 @@
 ##### Quick 'n Dirty Scripting | nicht schön, aber selten
 
 Bei diesem Bash-Skript handelt es sich um ein Benachrichtigungsskript für check_mk.
-`sms-lox24.sh verschickt eine SMS an die im Benutzer hinterlegte Telefon- bzw. Handynummer (`Pager address`).
+`sms-lox24.sh` verschickt eine SMS an die im Benutzer hinterlegte Telefon- bzw. Handynummer (`Pager address`).
 
 Folgende Variablen müssen angepasst werden:
 
