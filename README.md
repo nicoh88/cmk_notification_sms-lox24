@@ -8,7 +8,7 @@ Bei diesem Bash-Skript handelt es sich um ein Benachrichtigungsskript für check
 Folgende Variablen müssen angepasst werden:
 
  * `LOX24USER` - User-ID eures LOX24 Accounts
- * `LOX24PW` - MD5-Hash eures LOX24 Account
+ * `LOX24PW` - MD5-Hash eures LOX24 Accounts
  * `LOX24TARIF` - Tarif-ID
  * `LOX24FROM` - Absenderadresse/-name je nach Tarif-ID einstellbar
 
