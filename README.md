@@ -14,6 +14,8 @@ Folgende Variablen müssen angepasst werden:
 
 Das Skript gehört bei einer OMD-Installation in das Verzeichnis `/omd/sites/sitename/local/share/check_mk/notifications/` und muss natürlich mit `chmod` sowie `chown` für den OMD-User ausführbar gemacht werden. In den WATO Benutzereinstellungen kann dann bei *Flexible Notifications* **SMS via LOX24 SMS Gateway** ausgewählt und konfiguriert werden.
 
+![cmk-wato-user-notifications.jpg](cmk-wato-user-notifications.jpg?raw=true "cmk-wato-user-notifications.jpg")
+
 Viel Spaß!
 
 ##### Inspiration & Dank
